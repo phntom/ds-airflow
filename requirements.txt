@@ -1,0 +1,5 @@
+pip==21.2.4
+apache-airflow==2.1.4
+prometheus-client==0.11.0
+awscli==1.20.53
+--use-feature=in-tree-build plugins-install/prometheus_exporter/setup.py
